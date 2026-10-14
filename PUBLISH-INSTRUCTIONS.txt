@@ -1,0 +1,19 @@
+PRINCE SPA WEBSITE — PUBLISHING GUIDE
+
+Your website files are index.html and pamphlet.jpg.
+
+To publish for free with GitHub Pages:
+1. Sign in or create an account at https://github.com/
+2. Create a new public repository named prince-spa-website.
+3. Upload both index.html and pamphlet.jpg to the repository's main/root folder.
+4. Open Settings → Pages.
+5. Under Build and deployment, choose Deploy from a branch.
+6. Choose branch main and folder /(root), then Save.
+7. Wait a few minutes. GitHub will show your public website URL in Settings → Pages.
+8. Open that URL in Chrome to test it.
+
+Important:
+- The website is NOT live until you complete publishing.
+- Keep both files in the same folder/repository location.
+- Your email is visible publicly on the site. If you do not want it public, remove it from index.html before publishing.
+- No phone number or WhatsApp button has been added.
